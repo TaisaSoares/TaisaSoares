@@ -4,7 +4,7 @@
   
   <!--GIF-->
   <div align="center"><br>
-    <a href = "https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"><img alt="pic" width="480" height="270" title="Credits: Pluralsight" src="https://user-images.githubusercontent.com/61176855/145516952-f1f75741-28ad-4edf-8abc-2aee331c577a.gif"></a>
+    <a href = "https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"><img alt="pic" width="350em" height="200em" title="Credits: Pluralsight" src="https://user-images.githubusercontent.com/61176855/145516952-f1f75741-28ad-4edf-8abc-2aee331c577a.gif"></a>
   </div>
   
   <!--Text and more about me-->
@@ -82,7 +82,7 @@
  <!--PT-BR--> 
  <!--GIF-->
   <div align="center"><br>
-    <a href = "https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"><img alt="pic" width="480" height="270" title="Credits: Pluralsight" src="https://user-images.githubusercontent.com/61176855/145516952-f1f75741-28ad-4edf-8abc-2aee331c577a.gif"></a>
+    <a href = "https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"><img alt="pic" width="350em" height="200em" title="Credits: Pluralsight" src="https://user-images.githubusercontent.com/61176855/145516952-f1f75741-28ad-4edf-8abc-2aee331c577a.gif"></a>
   </div>
   
   <!--Textinho e mais sobre mim-->
