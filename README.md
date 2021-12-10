@@ -49,9 +49,9 @@
   <!--Contato-->
   <div align="center"> 
   
-  <a href = "mailto:soares.taisa16@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/TaisaSoares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/gnoma_robotica" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
-  <a href="https://www.instagram.com/taisa_semh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" ></a>
+  <a href = "mailto:soares.taisa16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/TaisaSoares"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/gnoma_robotica"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/taisa_semh/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
  
 </div>
