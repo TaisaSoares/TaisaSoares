@@ -51,13 +51,13 @@
 ##  
   
   <!--Snake-->
-  ![Snake animation](https://github.com/TaisaSoares/TaisaSoares/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/taisasoares/taisasoares/blob/output/github-contribution-grid-snake.svg)
   
   <!--Quadros de estastísticas e linguagens-->
 <div align="center"><br>
-  <a href="https://github.com/TaisaSoares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TaisaSoares&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaisaSoares&theme=aura_dark&langs_count=3"/>
+  <a href="https://github.com/taisasoares">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taisasoares&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisasoares&theme=aura_dark&langs_count=3"/>
 </div>
   
   <div><br></div>
@@ -66,7 +66,7 @@
   <div align="center"> 
   
   <a href = "mailto:soares.taisa16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/TaisaSoares"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/taisasoares"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/gnoma_robotica"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/taisa_semh/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
  
@@ -128,13 +128,13 @@
 ##  
   
   <!--Snake-->
-  ![Snake animation](https://github.com/TaisaSoares/TaisaSoares/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/taisasoares/taisasoares/blob/output/github-contribution-grid-snake.svg)
   
   <!--Quadros de estastísticas e linguagens-->
 <div align="center"><br>
-  <a href="https://github.com/TaisaSoares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TaisaSoares&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaisaSoares&theme=aura_dark&locale=pt-br&langs_count=3"/>
+  <a href="https://github.com/taisasoares">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taisasoares&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisasoares&theme=aura_dark&locale=pt-br&langs_count=3"/>
 </div>
   
   <div><br></div>
@@ -143,7 +143,7 @@
   <div align="center"> 
   
   <a href = "mailto:soares.taisa16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/TaisaSoares"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/taisasoares"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/gnoma_robotica"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/taisa_semh/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
  
