@@ -37,6 +37,8 @@
 
   <div><br></div>
   
+  ![Snake animation](https://github.com/TaisaSoares/TaisaSoares/blob/output/github-contribution-grid-snake.svg)
+  
   <!--Quadros de estastísticas e linguagens-->
 <div align="center"><br>
   <a href="https://github.com/TaisaSoares">
