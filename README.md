@@ -41,8 +41,8 @@
   <!--Quadros de estastísticas e linguagens-->
 <div align="center"><br>
   <a href="https://github.com/TaisaSoares">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=TaisaSoares&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaisaSoares&theme=aura_dark&locale=pt-br&langs_count=3"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TaisaSoares&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaisaSoares&theme=aura_dark&locale=pt-br&langs_count=3"/>
 </div>
   
   <div><br></div>
