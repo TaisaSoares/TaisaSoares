@@ -13,8 +13,7 @@
   
   <h3> More about me:<br></h3>
   <p>👩‍💻 Self-taught in programming</p>
-  <p>🎯 I am currently looking for my first opportunity in the area</p>
-  <p>🎨 Interior Design Student</p>
+  <p>🤟 Intern in Front-End Development at Hand Talk</p>
   <p>💕 I'm dating a <a href="https://github.com/GabrielF9">passionate developer</a> who has always encouraged me to program (and still encourages and celebrates every div created)</p>
   <p>👃 Fun fact: I can't smell (and I almost burned down the house for it)</p>
   <p>🎈 Some of my hobbies are: embroidery, playing The Sims 4 or farm games, meticulously planning projects and trips that will never get off the ground</p>
@@ -100,8 +99,7 @@
   
   <h3> Mais sobre mim:<br></h3>
   <p>👩‍💻 Autodidata na programação</p>
-  <p>🎯 Atualmente estou em busca da minha primeira oportunidade na área</p>
-  <p>🎨 Estudante de Design de Interiores</p>
+  <p>🤟 Estagiária em Desenvolvimento Front-End na Hand Talk</p>
   <p>💕 Namoro com um <a href="https://github.com/GabrielF9">dev apaixonado pelo que faz</a> que sempre me incentivou a programar (e ainda incentiva e comemora cada div criada)</p>
   <p>👃 Fun fact: Eu não sinto cheiro (e já quase incendiei a casa por isso)</p>
   <p>🎈 Alguns dos meus hobbies são: bordar, jogar The Sims 4 ou joguinhos de fazenda, planejar meticulosamente projetos e viajens que nunca sairão do papel</p>
